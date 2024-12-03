@@ -1,4 +1,5 @@
-## anjing
+# Hewan
+## Anjing
 ## Ayam
 ## Harimau
 ## Kelinci
@@ -13,3 +14,4 @@
 ## Serigala
 ## Kura-kura
 ## Komodo
+## Kapibara

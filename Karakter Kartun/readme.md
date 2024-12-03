@@ -1,7 +1,18 @@
+# Karakter Kartun
 ## Doraemon
-## KungFu Panda
+## Po
 ## Nobita
 ## Doraemon
 ## SpongeBob
 ## Squidward
-## Frozen
+## Elsa
+## Pikachu
+## Boboiboy
+## Upin Ipin
+## Cinderella
+## Scooby-Doo
+## Shinchan
+## Naruto
+## Shizuka
+## Mickey Mouse
+## Sofia
